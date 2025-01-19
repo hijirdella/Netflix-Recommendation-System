@@ -73,7 +73,7 @@ The content-based recommender system is highly based on the similarity calculati
 ![Top Recommendation for Ocean's Twelve](https://github.com/hijirdella/Netflix-Recommendation-System/blob/05b9407d022de22ca94d07bb965fed4ac9bf39a6/Picture/Top%20Recommendation%20(Ocean's%20Twelve).png)
 
 #### Top Recommendation for Stranger Things
-![Top Recommendation for Stranger Things](https://github.com/hijirdella/Netflix-Recommendation-System/blob/05b9407d022de22ca94d07bb965fed4ac9bf39a6/Picture/Top%20Recommendation%20(Ocean's%20Twelve).png)
+![Top Recommendation for Stranger Things](https://github.com/hijirdella/Netflix-Recommendation-System/blob/45251caac2f04ab250427bae95cf75afa55421ba/Picture/Top%20Recommendation%20(Stranger%20Things).png)
 
 ---
 
