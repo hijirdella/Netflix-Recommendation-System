@@ -3,7 +3,7 @@
 <p align='center'>
   <a href="#"><img src="https://user-images.githubusercontent.com/96771321/214456292-ef421cff-a59f-46a1-9411-fef980ee6814.gif" width="400"></a>
 </p>
-- [Python Code](https://github.com/hijirdella/Netflix-Recommendation-System/blob/05b9407d022de22ca94d07bb965fed4ac9bf39a6/Netflix_Recommendation_System.ipynb)
+
 
 ### INTRODUCTION
 The content-based recommender system is highly based on the similarity calculation among items. The similarity or closeness of items is measured based on the similarity in the content or features of those items. The important features used in this project are:
@@ -96,6 +96,6 @@ The content-based recommender system is highly based on the similarity calculati
 
 ### LINKS
 
-
+- [Python Code](https://github.com/hijirdella/Netflix-Recommendation-System/blob/05b9407d022de22ca94d07bb965fed4ac9bf39a6/Netflix_Recommendation_System.ipynb)
 - [LinkedIn Profile](https://www.linkedin.com/in/hijirdella/)
 - Email: [hijirdw@gmail.com](mailto:hijirdw@gmail.com)
