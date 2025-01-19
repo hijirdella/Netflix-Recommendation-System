@@ -69,6 +69,12 @@ The content-based recommender system is highly based on the similarity calculati
 #### NetworkX Representation
 ![NetworkX Graph](https://github.com/hijirdella/Netflix-Recommendation-System/blob/b7a744c1d8318692443832029abcd25c9cd2433e/Picture/NetworkX.png)
 
+#### Top Recommendation for Ocean's Twelve
+![Top Recommendation for Ocean's Twelve](https://github.com/hijirdella/Netflix-Recommendation-System/blob/05b9407d022de22ca94d07bb965fed4ac9bf39a6/Picture/Top%20Recommendation%20(Ocean's%20Twelve).png)
+
+#### Top Recommendation for Stranger Things
+![Top Recommendation for Stranger Things](https://github.com/hijirdella/Netflix-Recommendation-System/blob/05b9407d022de22ca94d07bb965fed4ac9bf39a6/Picture/Top%20Recommendation%20(Ocean's%20Twelve).png)
+
 ---
 
 ### MODEL EVALUATION SUMMARY
