@@ -18,7 +18,7 @@ The content-based recommender system is highly based on the similarity calculati
 
 ### IMAGES
 
-#### System Diagram
+
 ![Netflix Recommendation System](https://github.com/hijirdella/Netflix-Recommendation-System/blob/b7a744c1d8318692443832029abcd25c9cd2433e/Picture/Netflix%20Recommendation%20System.jpg)
 
 #### Missing Values Analysis
